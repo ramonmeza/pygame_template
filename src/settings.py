@@ -16,4 +16,4 @@ class Settings:
         if section in js.keys():
             return js[section]
         
-        return 
+        return js

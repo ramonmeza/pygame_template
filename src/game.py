@@ -16,8 +16,6 @@ class Game(pyg.Surface):
 
         # initialize variables
         self._game_objects = []
-        spr = pyg.sprite.Sprite()
-        spr.rect
 
     def update(self, dt: float) -> None:
         # do updates
