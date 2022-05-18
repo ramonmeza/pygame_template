@@ -73,7 +73,7 @@ print(settings_obj)
 
 Results
 
-```json
+```json5
 {'sectionA': {'attribute1': 'hello, world!', 'attribute2': 24}, 'sectionB': {'attributeX': 11, 'attributeY': [1, 2, 3, 4]}}
 ```
 
@@ -88,6 +88,6 @@ print(settings_obj)
 
 Results
 
-```json
+```json5
 {'attribute1': 'hello, world!', 'attribute2': 24}
 ```
